@@ -16,7 +16,9 @@ Below an overview of the pages. </br></br>
 ### Technical design: Detail
 There is a class to make an object of the books, this makes it possible to show the information of a volume, such as title and authors.
 This class gets the data from the API. </br>
-Furthermore there is a class to store the favorites of a user. This was necessary for firebase. This class stores and gets data from firebase.
+Furthermore there is a class to store the favorites of a user. This was necessary for firebase. This class stores and gets data from firebase. </br>
+List of activities:
+
 
 ## Progress
 
